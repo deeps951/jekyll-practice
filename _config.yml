@@ -1,2 +1,7 @@
-title: Jekyll Practice
-theme: null
+title: Andrew Cox
+description: Creative technologist, musician, and lifelong learner
+
+url: https://deeps951.github.io
+baseurl: /jekyll-practice
+
+markdown: kramdown
